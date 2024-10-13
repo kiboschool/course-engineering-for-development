@@ -1,0 +1,517 @@
+name: Engineering for Development
+code: HSS223
+term: Oct-2023
+about_path: src/welcome.md
+image_path: src/cover-image.png
+units:
+  - name: Course Overview
+    activities:
+      - name: Course Topics
+        path: src/course-topics.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-10-08'
+        due: '2023-10-11'
+      - name: Course Expectations
+        path: src/course-expectations.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-10-08'
+        due: '2023-10-11'
+      - name: Course Assessments
+        path: src/course-assessments.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-10-08'
+        due: '2023-10-11'
+      - name: Live Classes
+        path: src/live-classes.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-10-08'
+        due: '2023-10-11'
+  - name: Week 1
+    activities:
+      - name: Introduction
+        path: src/introduction-to-social-entrepreneurship-and.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-10-08'
+        due: '2023-10-11'
+      - name: Definition and Significance of Social Entrepreneurship
+        path: src/introduction-to-social-entrepreneurship-and/definition-and-significance-of-social-entrepre.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-08'
+        due: '2023-10-11'
+      - name: Examples of Successful Social Entrepreneurs and Their Impact
+        path: src/introduction-to-social-entrepreneurship-and/examples-of-successful-social-entrepreneurs-an.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-08'
+        due: '2023-10-11'
+      - name: The Challenges Faced by Social Entrepreneurs in Addressing Development Challenges
+        path: src/introduction-to-social-entrepreneurship-and/the-challenges-faced-by-social-entrepreneurs-i.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: '2023-10-08'
+        due: '2023-10-11'
+      - name: Understanding and Characterizing Development Challenges
+        path: src/introduction-to-social-entrepreneurship-and/understanding-and-characterizing-development-c.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-08'
+        due: '2023-10-11'
+      - name: Frameworks for Characterizing Development Challenges
+        path: src/introduction-to-social-entrepreneurship-and/frameworks-for-characterizing-development-chal.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-10-08'
+        due: '2023-10-11'
+  - name: Week 2
+    activities:
+      - name: Introduction
+        path: src/sustainable-development-and-the-sdgs.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-10-08'
+        due: '2023-10-16'
+      - name: Principles and Concepts of Sustainable Development
+        path: src/sustainable-development-and-the-sdgs/principles-and-concepts-of-sustainable-develop.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-10-08'
+        due: '2023-10-16'
+      - name: The United Nations Sustainable Development Goals (SDGs)
+        path: src/sustainable-development-and-the-sdgs/the-united-nations-sustainable-development-goa.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 300
+        publish: '2023-10-08'
+        due: '2023-10-16'
+      - name: Challenges and Opportunities of Achieving the SDGs
+        path: src/sustainable-development-and-the-sdgs/challenges-and-opportunities-of-achieving-the.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-08'
+        due: '2023-10-16'
+      - name: Assignment 1 - Sustainable Development and the SDGs
+        path: src/sustainable-development-and-the-sdgs/assignment-1-sustainable-development-and-the-sdgs.md
+        type: assignment
+        grade_weight: 15
+        kind: ASSIGNMENT
+        workload: 300
+        publish: '2023-10-08'
+        due: '2023-10-22'
+  - name: Week 3
+    activities:
+      - name: Introduction
+        path: src/evaluating-existing-solutions-and-technolog.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-10-15'
+        due: '2023-10-23'
+      - name: Methods for Evaluating Existing Solutions to Social Problems
+        path: src/evaluating-existing-solutions-and-technolog/methods-for-evaluating-existing-solutions-to-s.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-15'
+        due: '2023-10-23'
+      - name: Frameworks for Evaluating Existing Solutions
+        path: src/evaluating-existing-solutions-and-technolog/frameworks-for-evaluating-existing-solutions.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-10-15'
+        due: '2023-10-23'
+      - name: Assessing the Effectiveness and Sustainability of Interventions
+        path: src/evaluating-existing-solutions-and-technolog/assessing-the-effectiveness-and-sustainability.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-15'
+        due: '2023-10-23'
+      - name: Exploring Innovative Technological Solutions for Development Challenges
+        path: src/evaluating-existing-solutions-and-technolog/exploring-innovative-technological-solutions-f.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-10-15'
+        due: '2023-10-23'
+      - name: Technology Selection and Contextualization
+        path: src/evaluating-existing-solutions-and-technolog/technology-selection-and-contextualization.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-15'
+        due: '2023-10-23'
+      - name: Your Role in Shaping the Future -From Learner to Changemaker
+        path: src/evaluating-existing-solutions-and-technolog/your-role-in-shaping-the-future-from-learner-t.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: '2023-10-15'
+        due: '2023-10-23'
+  - name: Week 4
+    activities:
+      - name: Introduction
+        path: src/systems-thinking-and-complexity-in-developm.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-10-22'
+        due: '2023-10-30'
+      - name: Introduction to Systems Thinking
+        path: src/systems-thinking-and-complexity-in-developm/introduction-to-systems-thinking.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 180
+        publish: '2023-10-22'
+        due: '2023-10-30'
+      - name: Application of Systems Thinking to Understanding Complex Development Issues
+        path: src/systems-thinking-and-complexity-in-developm/application-of-systems-thinking-to-understandi.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-10-22'
+        due: '2023-10-30'
+      - name: Analyzing Social-Ecological Systems and Their Dynamics
+        path: src/systems-thinking-and-complexity-in-developm/analyzing-social-ecological-systems-and-their.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-22'
+        due: '2023-10-30'
+      - name: Applying Systems Thinking Tools
+        path: src/systems-thinking-and-complexity-in-developm/applying-systems-thinking-tools.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-22'
+        due: '2023-10-30'
+      - name: Systems Thinking Mental Models
+        path: src/systems-thinking-and-complexity-in-developm/systems-thinking-mental-models.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-22'
+        due: '2023-10-30'
+      - name: Assignment 2 - Systems Thinking and Complexity in Development
+        path: src/systems-thinking-and-complexity-in-developm/assignment-2-systems-thinking-and-complexity-in.md
+        type: assignment
+        grade_weight: 15
+        kind: ASSIGNMENT
+        workload: 300
+        publish: '2023-10-22'
+        due: '2023-11-05'
+  - name: Week 5
+    activities:
+      - name: Introduction
+        path: src/problem-identification.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-10-29'
+        due: '2023-11-06'
+      - name: What is a Problem?
+        path: src/problem-identification/what-is-a-problem.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-10-29'
+        due: '2023-11-06'
+      - name: Types of Problems
+        path: src/problem-identification/types-of-problems.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-10-29'
+        due: '2023-11-06'
+      - name: Importance of Problem Identification
+        path: src/problem-identification/importance-of-problem-identification.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-10-29'
+        due: '2023-11-06'
+      - name: Techniques for Identifying Social Problems
+        path: src/problem-identification/techniques-for-identifying-social-problems.md
+        type: lesson
+        kind: GENERAL
+        workload: 240
+        publish: '2023-10-29'
+        due: '2023-11-06'
+  - name: Week 6
+    activities:
+      - name: Introduction
+        path: src/problem-analysis-i.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-11-05'
+        due: '2023-11-13'
+      - name: Introduction to Problem Analysis
+        path: src/problem-analysis-i/introduction-to-problem-analysis.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-11-05'
+        due: '2023-11-13'
+      - name: Principles of Problem Analysis
+        path: src/problem-analysis-i/principles-of-problem-analysis.md
+        type: lesson
+        kind: GENERAL
+        workload: 240
+        publish: '2023-11-05'
+        due: '2023-11-13'
+      - name: Understanding Root Causes and Interconnectedness of Problems
+        path: src/problem-analysis-i/understanding-root-causes-and-interconnectedne.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-11-05'
+        due: '2023-11-13'
+      - name: Tools and Techniques for Problem Analysis
+        path: src/problem-analysis-i/tools-and-techniques-for-problem-analysis.md
+        type: lesson
+        kind: GENERAL
+        workload: 240
+        publish: '2023-11-05'
+        due: '2023-11-13'
+      - name: Assignment 3 - Problem Identification
+        path: src/problem-analysis-i/assignment-3.md
+        type: assignment
+        grade_weight: 15
+        kind: ASSIGNMENT
+        workload: 300
+        publish: '2023-11-05'
+        due: '2023-11-19'
+  - name: Week 7
+    activities:
+      - name: Introduction
+        path: src/problem-analysis-ii-applications-to-sdg-6.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-11-12'
+        due: '2023-11-20'
+      - name: Spotlight on SDG 6
+        path: src/problem-analysis-ii-applications-to-sdg-6/spotlight-on-sdg-6.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-11-12'
+        due: '2023-11-20'
+      - name: Applying Problem Analysis to SDG 6
+        path: src/problem-analysis-ii-applications-to-sdg-6/applying-problem-analysis-to-sdg-6.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-11-12'
+        due: '2023-11-20'
+      - name: Introduction to Case Studies of Problem Analysis in the Water and Sanitation Sector
+        path: src/problem-analysis-ii-applications-to-sdg-6/introduction-to-case-studies-of-problem-analys.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: '2023-11-12'
+        due: '2023-11-20'
+      - name: Case Study 1 Water Scarcity at the University of Nigeria, Nsukka
+        path: src/problem-analysis-ii-applications-to-sdg-6/case-study-1-water-scarcity-at-the-university-of-n.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: '2023-11-12'
+        due: '2023-11-20'
+      - name: Case Study 2 Tharaka, Kenya - A Quest for Water Security
+        path: src/problem-analysis-ii-applications-to-sdg-6/case-study-2-tharaka-kenya-a-quest-for-water-se.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: '2023-11-12'
+        due: '2023-11-20'
+      - name: Case Study 3 Sanitation Challenge in Ghana
+        path: src/problem-analysis-ii-applications-to-sdg-6/case-study-3-sanitation-challenge-in-ghana.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: '2023-11-12'
+        due: '2023-11-20'
+      - name: Case Study 4 Toilet Crisis in Ilaje Otumara Community, Lagos
+        path: src/problem-analysis-ii-applications-to-sdg-6/case-study-4-toilet-crisis-in-ilaje-otumara-commun.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: '2023-11-12'
+        due: '2023-11-20'
+      - name: Wrap Up
+        path: src/problem-analysis-ii-applications-to-sdg-6/wrap-up.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-11-12'
+        due: '2023-11-20'
+  - name: Week 8
+    activities:
+      - name: Introduction
+        path: src/problem-analysis-iii-applications-to-sdg-7.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-11-19'
+        due: '2023-11-27'
+      - name: Spotlight on SDG 7
+        path: src/problem-analysis-iii-applications-to-sdg-7/spotlight-on-sdg-7.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-11-19'
+        due: '2023-11-27'
+      - name: Applying Problem Analysis to SDG 7
+        path: src/problem-analysis-iii-applications-to-sdg-7/applying-problem-analysis-to-sdg-7.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-11-19'
+        due: '2023-11-27'
+      - name: Case Study 1 South Africa Energy Crisis
+        path: src/problem-analysis-iii-applications-to-sdg-7/case-study-1-south-africa-energy-crisis.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: '2023-11-19'
+        due: '2023-11-27'
+      - name: Case Study 2 Energy Poverty in Lagos, Nigeria
+        path: src/problem-analysis-iii-applications-to-sdg-7/case-study-2-energy-poverty-in-lagos-nigeria.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: '2023-11-19'
+        due: '2023-11-27'
+      - name: Case Study 3 High Energy Cost in Kenya
+        path: src/problem-analysis-iii-applications-to-sdg-7/case-study-3-high-energy-cost-in-kenya.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: '2023-11-19'
+        due: '2023-11-27'
+      - name: Case Study 4 Uneven Energy Distribution In Ghana
+        path: src/problem-analysis-iii-applications-to-sdg-7/case-study-4-uneven-energy-distribution-in-ghana.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: '2023-11-19'
+        due: '2023-11-27'
+      - name: Wrap Up
+        path: src/problem-analysis-iii-applications-to-sdg-7/wrap-up.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-11-19'
+        due: '2023-11-27'
+      - name: Assignment 4 - Problem Analysis
+        path: src/problem-analysis-iii-applications-to-sdg-7/assignment-4.md
+        type: assignment
+        grade_weight: 15
+        kind: ASSIGNMENT
+        workload: 300
+        publish: '2023-11-19'
+        due: '2023-12-03'
+  - name: Week 9
+    activities:
+      - name: Introduction
+        path: src/characterizing-your-problem-statement.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-11-26'
+        due: '2023-12-04'
+      - name: Defining the Problem Statement
+        path: src/characterizing-your-problem-statement/defining-the-problem-statement.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-11-26'
+        due: '2023-12-04'
+      - name: Identifying and Understanding Your Social Problem
+        path: src/characterizing-your-problem-statement/identifying-and-understanding-your-social-prob.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-11-26'
+        due: '2023-12-04'
+      - name: Identifying Key Dimensions, Constraints, and Potential Impact Areas
+        path: src/characterizing-your-problem-statement/identifying-key-dimensions-constraints-and-p.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: '2023-11-26'
+        due: '2023-12-04'
+      - name: Structuring your Problem Statement
+        path: src/characterizing-your-problem-statement/structuring-your-problem-statement.md
+        type: lesson
+        kind: GENERAL
+        workload: 180
+        publish: '2023-11-26'
+        due: '2023-12-04'
+  - name: Week 10
+    activities:
+      - name: Introduction
+        path: src/finalizing-problem-statement-and-reflectiv.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: '2023-11-26'
+        due: '2023-12-11'
+      - name: Refining Problem Statements Based on Research and Insights
+        path: src/finalizing-problem-statement-and-reflectiv/refining-problem-statements-based-on-research.md
+        type: lesson
+        kind: GENERAL
+        workload: 240
+        publish: '2023-11-26'
+        due: '2023-12-11'
+      - name: Presenting and Defending Problem Statements
+        path: src/finalizing-problem-statement-and-reflectiv/presenting-and-defending-problem-statements.md
+        type: lesson
+        kind: GENERAL
+        workload: 240
+        publish: '2023-11-26'
+        due: '2023-12-11'
+      - name: Reflecting on Your Journey - Celebrating Your Growth
+        path: src/finalizing-problem-statement-and-reflectiv/reflecting-on-your-journey-celebrating-your.md
+        type: lesson
+        kind: GENERAL
+        workload: 240
+        publish: '2023-11-26'
+        due: '2023-12-11'
+      - name: Final Presentation
+        path: src/finalizing-problem-statement-and-reflectiv/final-presentation.md
+        type: assignment
+        grade_weight: 20
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 600
+        publish: '2023-11-26'
+        due: '2023-12-17'
+      - name: Final Project
+        path: src/finalizing-problem-statement-and-reflectiv/final-project.md
+        type: assignment
+        grade_weight: 20
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 600
+        publish: '2023-11-26'
+        due: '2023-12-17'
